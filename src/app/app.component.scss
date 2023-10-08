@@ -1,0 +1,24 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .layout-header {
+    /* Define styles for the header */
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  .layout-column {
+    /* Define styles for the column */
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .layout-footer {
+    /* Define styles for the footer */
+    background-color: #f5f5f5;
+    padding: 20px;
+  }

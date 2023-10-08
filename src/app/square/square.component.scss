@@ -1,0 +1,34 @@
+.custom-button {
+    /* Define the common button styles */
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .success {
+    /* Define the styles for the success button */
+    background-color: green;
+    color: white;
+  }
+
+  .info {
+  /* Define the styles for the info button */
+  background-color: blue;
+  color: white;
+}
+.initial-button {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
